@@ -27,9 +27,9 @@
 ### 👨‍💻 About Me
 - 🎓 **Education:** Computer Science & Engineering Student at Eastern University
 - 💻 **Core Focus:** Building responsive, full-stack web applications using **React, Next.js, Node.js, Express, and MongoDB**
-- 🚀 **Currently Building:** Production-ready web platforms with modern authentication (Better Auth, OAuth) & RBAC dashboards
+- 🚀 **Currently Building:** [PulseBond](https://pulse-bond-client.vercel.app) — a modern web application focusing on full-stack integration and seamless UX
+- ⚡ **Currently Learning & Exploring:** **TypeScript** for type-safe code bases and scalable app architecture
 - 🌐 **Goal:** Contributing to impactful web development projects locally and internationally
-
 ---
 
 ### 🛠️ Tech Stack & Tools

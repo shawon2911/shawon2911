@@ -23,6 +23,7 @@
 
 ### 🛠️ Tech Stack & Tools
 
+**Languages & Frameworks:**
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -31,7 +32,13 @@
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
+
+**Deployment, Cloud & Tools:**
+<p align="left">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/ImgBB-000000?style=for-the-badge&logo=imgbb&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
@@ -39,18 +46,20 @@
 
 ### 🚀 Featured Projects
 
-#### 🏟️ [SportNest](https://lnkd.in/gXQTXDk7)
+#### 🩸  [Blood Donation Platform](https://pulse-bond-client.vercel.app)
+> **MERN Web Application with Role-Based Access Control (RBAC)**
+- **Features:** Custom donor-patient dashboard, search filters, secure donor management.
+- **Tech Stack:** React, Node.js, Express, MongoDB, Tailwind CSS
+
+
+#### 🏟️ [SportNest](https://sportnest-virid.vercel.app)
 > **Full-Stack Sports Facility & Ground Booking Platform**
 - **Features:** Dynamic booking slots, automatic price calculation, venue management for owners, Google OAuth & Better Auth integration.
 - **Tech Stack:** Next.js 16, Node.js, Express, MongoDB, Tailwind CSS, HeroUI, Better Auth
 - 🔗 [Live Demo](https://lnkd.in/gXQTXDk7) | 🐙 [GitHub Repo](https://lnkd.in/gXhSKKhz)
 
-#### 🩸 Blood Donation Platform
-> **MERN Web Application with Role-Based Access Control (RBAC)**
-- **Features:** Custom donor-patient dashboard, search filters, secure donor management.
-- **Tech Stack:** React, Node.js, Express, MongoDB, Tailwind CSS
 
-#### 📚 [SkillsSphere](https://skills-sphere.vercel.app/)
+#### 📚 [SkillsSphere](https://skills-sphere.vercel.app)
 > **Course Discovery & Learning Platform**
 - **Features:** Course search filters, user authentication (Better Auth + Google OAuth), server/client components architecture.
 - **Tech Stack:** Next.js, React, JavaScript (ES6+), Better Auth, Tailwind CSS
@@ -60,9 +69,9 @@
 ### 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shawon2911&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shawon2911&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shawon2911&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shawon2911&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>

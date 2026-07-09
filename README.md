@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Hosenuzzaman</h1>
 <p align="center">
   <a href="https://readme-typing-svg.herokuapp.com">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;MERN+%26+Next.js+Specialist;CS+Student+%40+Eastern+University;Building+SportNest+%26+SkillsSphere" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;MERN+%26+Next.js+Specialist;CSE+Student+%40+Eastern+University;" alt="Typing SVG" />
   </a>
 </p>
 

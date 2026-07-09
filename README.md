@@ -62,6 +62,7 @@
 #### 🩸  [Blood Donation Platform](https://pulse-bond-client.vercel.app)
 > **MERN Web Application with Role-Based Access Control (RBAC)**
 - **Features:** Custom donor-patient dashboard, search filters, secure donor management.
+- **Role:** Admin, Volunteer, User.
 - **Tech Stack:** React, Node.js, Express, MongoDB, Tailwind CSS
 
 

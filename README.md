@@ -1,51 +1,68 @@
 <p align="center">
-  <img src="banner.png" alt="banner" />
+  <img src="banner.png" alt="banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Hosenuzzaman</h1>
-<h3 align="center">Frontend Developer | CSE Student</h3>
+<h3 align="center">Full Stack Web Developer (MERN & Next.js) | CSE Student</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/hosenuzzaman/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 ---
 
 ### 👨‍💻 About Me
-- 🎓 I am a CSE student from Bangladesh  
-- 💻 I love building responsive and modern web applications  
-- 🚀 Currently learning Next.js & Backend Development  
-- 🎯 Goal: Become a Full Stack Developer  
+- 🎓 **Education:** Computer Science & Engineering Student at Eastern University
+- 💻 **Core Focus:** Building responsive, full-stack web applications using **React, Next.js, Node.js, Express, and MongoDB**
+- 🚀 **Currently Building:** Production-ready web platforms with modern authentication (Better Auth, OAuth) & RBAC dashboards
+- 🌐 **Goal:** Contributing to impactful web development projects locally and internationally
 
 ---
 
-### 🌐 Connect with me:
+### 🛠️ Tech Stack & Tools
+
 <p align="left">
-<a href="https://www.linkedin.com/in/hosenuzzaman/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
 
-### 🚀 Languages and Tools:
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" />
-</p>
+### 🚀 Featured Projects
+
+#### 🏟️ [SportNest](https://lnkd.in/gXQTXDk7)
+> **Full-Stack Sports Facility & Ground Booking Platform**
+- **Features:** Dynamic booking slots, automatic price calculation, venue management for owners, Google OAuth & Better Auth integration.
+- **Tech Stack:** Next.js 16, Node.js, Express, MongoDB, Tailwind CSS, HeroUI, Better Auth
+- 🔗 [Live Demo](https://lnkd.in/gXQTXDk7) | 🐙 [GitHub Repo](https://lnkd.in/gXhSKKhz)
+
+#### 🩸 Blood Donation Platform
+> **MERN Web Application with Role-Based Access Control (RBAC)**
+- **Features:** Custom donor-patient dashboard, search filters, secure donor management.
+- **Tech Stack:** React, Node.js, Express, MongoDB, Tailwind CSS
+
+#### 📚 [SkillsSphere](https://skills-sphere.vercel.app/)
+> **Course Discovery & Learning Platform**
+- **Features:** Course search filters, user authentication (Better Auth + Google OAuth), server/client components architecture.
+- **Tech Stack:** Next.js, React, JavaScript (ES6+), Better Auth, Tailwind CSS
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity & Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shawon2911&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shawon2911&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shawon2911&" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shawon2911&theme=tokyonight" alt="GitHub Streak" />
 </p>
